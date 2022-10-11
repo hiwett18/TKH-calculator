@@ -1,1 +1,1 @@
-# TKH-calculator
+# calculator
